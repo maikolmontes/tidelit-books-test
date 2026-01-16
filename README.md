@@ -48,11 +48,10 @@ npm install
 npm start
 
 
-
-Notas
+## Notas
 
 Para la demo móvil se utilizó Expo Web debido a restricciones de red local en iOS, pero el mismo código es compatible con dispositivos móviles.
 
-Video 
+## Video 
 Se adjunta un video donde se explica el funcionamiento del backend, frontend y mobile.
 https://drive.google.com/file/d/1hZCn0PqKtU6xhr_mRoKhVVBOAJSC-NKR/view?usp=sharing
